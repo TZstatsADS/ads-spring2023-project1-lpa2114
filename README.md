@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Project title: Religion in Philosophy
 + This project is conducted by Luke Arceneaux
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Throughout history, humanity's relationship with religion and different belief systems has been a core part of our internal conflict and identity. It is only natural to look at religion through philisophical schools throughout time. Not only do they often address religion and humanity's relationship with religion on its own, religion is intrinsically connected to and can shape our values, so a school of thought's perspective on religion can unveil other aspects of the school. Through this project, we will utilize philosophical text data and look at how these schools view religion. We will answer questions about how positive or negative they perceive religion and religion adjacent topics, and see what types of perpectives these schools of thought associate with religion.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
